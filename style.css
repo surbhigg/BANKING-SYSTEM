@@ -9,7 +9,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  background-color: aqua;
 }
 
 html {
@@ -67,7 +66,6 @@ html {
 body {
 	font-size: 18px;
 	font-family: "Lato", serif;
-  background-color: aqua;
 }
 .brand-logo {
 	margin-left: 15px;
